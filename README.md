@@ -16,28 +16,28 @@ The entry-level workbench focusing on simplicity and core features.
 - **Key Features**: Schema-Grounded SQL RAG, Knowledge-Base (KB) chat, and supervised/unsupervised ML models (Random Forest, Isolation Forest).
 - **Tech**: Streamlit, SQLite.
 - **Docker**: `docker compose up --build`
-- **Repo**: `https://github.com/yanhuo68/Fraud-AI-Workbench-basic`
+- **Repo**: [yanhuo68/Fraud-AI-Workbench-basic](https://github.com/yanhuo68/Fraud-AI-Workbench-basic)
 
 ### 2. [Fraud-AI-Workbench-plus](./Fraud-AI-Workbench-plus)
 An enhanced version of the basic workbench with refined UI and more analytical tools.
 - **Goal**: Deeper investigation with autonomous agents and media tracking.
 - **Key Features**: Autonomous ReAct Agents (LangGraph), Whisper-powered Media Transcription, Visual Execution Player for replay, and automated ERD generation (Mermaid).
 - **Tech**: Streamlit, LangGraph, Graphviz.
-- **Repo**: `https://github.com/yanhuo68/Fraud-AI-Workbench-plus`
+- **Repo**: [yanhuo68/Fraud-AI-Workbench-plus](https://github.com/yanhuo68/Fraud-AI-Workbench-plus)
 
 ### 3. [Fraud-AI-Workbench-pro](./Fraud-AI-Workbench-pro)
 A professional-grade, highly-scalable enterprise architecture.
 - **Goal**: Production-ready, secure, distributed fraud analysis platform.
 - **Key Features**: Graph RAG (Neo4j), Multimodal FAISS RAG, Admin RBAC Console, FastAPI Backend Router, API Hub, and Interactive visual Demos.
 - **Tech**: Streamlit (Frontend), FastAPI (Backend), Neo4j, FAISS, SQLAlchemy, Ollama.
-- **Repo**: `https://github.com/yanhuo68/Fraud-AI-Workbench-pro`
+- **Repo**: [yanhuo68/Fraud-AI-Workbench-pro](https://github.com/yanhuo68/Fraud-AI-Workbench-pro)
 
 ### 4. [Fraud-AI-Workbench-plus-max](./Fraud-AI-Workbench-plus-max)
 The most advanced experimental version featuring cutting-edge multi-agent techniques.
 - **Goal**: High-fidelity fraud detection utilizing hybrid graph-based context.
 - **Key Features**: Hybrid TF-IDF Graph RAG, SMOTE for imbalanced data, Risk Guideline auto-indexing, and dynamic agent logic maps.
 - **Tech**: Streamlit, LangGraph, Sentence-Transformers, Imbalanced-learn.
-- **Repo**: `https://github.com/yanhuo68/Fraud-AI-Workbench-plus-max`
+- **Repo**: [yanhuo68/Fraud-AI-Workbench-plus-max](https://github.com/yanhuo68/Fraud-AI-Workbench-plus-max)
 
 ---
 
