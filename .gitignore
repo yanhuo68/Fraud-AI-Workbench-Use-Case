@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data & SQLite
+*.db
+*.sqlite3
+data/db/
+data/kb/
+data/processed/
+data/reports/
+data/uploads/
+data/ml/
+data/generated/
+
+# NOTE: data/raw/ is NOT ignored to track demo datasets in Git
+
+# Logs
+logs/
+*.log
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Testing
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Workbench Walkthrough
+FINAL_WALKTHROUGH.md
+
+# Workbenches
+Fraud-AI-Workbench-basic/
+Fraud-AI-Workbench-plus/
+Fraud-AI-Workbench-plus-max/
+Fraud-AI-Workbench-pro/
+
+# Documentation
+documentation/screen/
